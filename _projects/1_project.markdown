@@ -1,55 +1,33 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Flower
+description: flow navigation in the IDE
+img: /assets/img/flower.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+# Flower: Navigating Program Flow in the IDE
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
+## Paper
+[Flower: Navigating Program Flow in the IDE](http://www4.ncsu.edu/~jssmit11/Publications/VLHCC17_Flower.pdf)
+Justin Smith, Chris Brown, Emerson Murphy-Hill
+Visual Languages and Human Centric Computing (VL/HCC 2017)
+[PDF](http://www4.ncsu.edu/~jssmit11/Publications/VLHCC17_Flower.pdf) | [BibTeX](http://www4.ncsu.edu/~jssmit11/projects/flower/flowerMaterials.txt)
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+## The Tool:
+Flower is a plugin for the Eclipse IDE designed to help you navigate program flow.  
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+The best way to try out Flower is to [download](https://drive.google.com/file/d/0B384dHeXAHG5OE55R0syclp6blE/view) this VM image, which contains a running copy of Flower and a sample application!
+
+## Demo Video
+For a quick look at how Flower works, check out this [demo video](http://www4.ncsu.edu/~jssmit11/projects/flower/demo.mp4)!
 
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Study Materials
+We conducted a preliminary evaluation of Flower with eight participants. To facilitate the replication of our study, we provide all the necessary materials online:
 
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+- [Consent Form](http://www4.ncsu.edu/~jssmit11/projects/-flower/ConsentForm.pdf "Consent Form")
+- [Demographic Questions](http://www4.ncsu.edu/~jssmit11/projects/flower/DemographicSurvey.pdf)
+- [Study Script](http://www4.ncsu.edu/~jssmit11/projects/flower/Script.pdf)
+- [Post-study system usability questionnaire (PSSUQ)](http://www4.ncsu.edu/~jssmit11/projects/flower/UsabilityQuestionnaire.pdf)
