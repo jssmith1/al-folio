@@ -90,7 +90,7 @@ scholar:
 
   last_name: Smith
 
-  style: ieee
+  style: ieee #-with-url
   locale: en
   sort_by: year
   order: descending
