@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I've taught
+description: These are some of my highlighted teaching experiences!
 ---
 
 ### Instructor
