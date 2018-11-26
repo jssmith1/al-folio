@@ -14,7 +14,7 @@ Ethical decisions in software development can substantially impact end-users, or
 Our work has been featured by several media outlets. Follow the links to read more about how people are reacting:
 
 - [Front page of Reddit /r/programming](https://www.reddit.com/r/programming/comments/9myr6a/code_of_ethics_doesnt_influence_decisions_of/)
-- [Forbes](https://www.forbes.com/sites/jessicabaron/2018/10/17/we-need-to-work-harder-to-make-software-engineering-more-ethical/?fbclid=IwAR1NLNIVpL2jxkcTK1aLuBNRGcTImvVfMPcOeXZ5MsK2BLzm7tXXJjMbsuQ#4b9590c350cc)
-- [MIT Technology Review](https://www.technologyreview.com/s/612318/establishing-an-ai-code-of-ethics-will-be-harder-than-people-think/?fbclid=IwAR1VMvIhcGE__50y9CcXlzF8CwlMEMzZflCtJtfWEABnf5AK3tHtZFTBsjA)
+- [Forbes](https://www.forbes.com/sites/jessicabaron/2018/10/17/we-need-to-work-harder-to-make-software-engineering-more-ethical/)
+- [MIT Technology Review](https://www.technologyreview.com/s/612318/establishing-an-ai-code-of-ethics-will-be-harder-than-people-think)
 - [2018 AI Now Symposium Keynote](https://youtu.be/NmdAtfcmTNg?t=480)
-- [Fast Company](https://www.fastcompany.com/90250846/codes-of-ethics-probably-dont-work?fbclid=IwAR383wfUi7aeGfbkEDhJ6x-N0-uY2yKpoyeVrFMA4BGpp6wR68u7Z7BP7Bg)
+- [Fast Company](https://www.fastcompany.com/90250846/codes-of-ethics-probably-dont-work)
