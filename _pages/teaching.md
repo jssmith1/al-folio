@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching & mentorship
 description: These are some of my highlighted teaching experiences!
 ---
 
