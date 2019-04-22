@@ -37,11 +37,11 @@ Study Methods: Interviews and Surveys
 ![INTech Camp Participants](/assets/img/INTech.jpg)
 
 - [INTech Homepage](http://intechcamp.org/)
-- [Press](https://www.cbs17.com/news/local-news/camp-that-teaches-girls-to-code-build-websites-comes-to-raleigh-for-first-time/1016969653)
+- [Press: Camp that teaches girls to code, build websites comes to Raleigh for first time (CBS17)](https://www.cbs17.com/news/local-news/camp-that-teaches-girls-to-code-build-websites-comes-to-raleigh-for-first-time/1016969653)
 
 #### Roberts Park Code Camp Mentor
 
 ![Roberts Park Camp Participants](/assets/img/ABBCamp.jpg)
 
-- [Press](https://www.wral.com/still-time-to-sign-up-for-code-camp-40-camp-that-comes-with-free-kindle-fire/17723324/)
+- [Press: Still time to sign up for code camp (WRAL)](https://www.wral.com/still-time-to-sign-up-for-code-camp-40-camp-that-comes-with-free-kindle-fire/17723324/)
 
