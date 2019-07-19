@@ -7,6 +7,12 @@ description: These are some of my highlighted teaching experiences!
 
 ### Instructor
 
+#### **Lafayette CS 105---Digital Media Computing**
+Fall 2019: More to come soon.
+
+#### **Lafayette CS 413---Human-Computer Interaction**
+Fall 2019: More to come soon. 
+
 #### **NCSU CSC 226---Discrete Mathematics**  
 
 ##### Course Materials
