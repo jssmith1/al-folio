@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Justin Smith
-email: justin_smith@ncsu.edu
+email: smithjus@lafayette.edu
 description: > # this means to ignore newlines until "url:"
-  PhD Candidate at NCSU. I study SE, Security, and HCI.
+  Assistant Professor at Lafayette College. I study SE, Security, and HCI.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
